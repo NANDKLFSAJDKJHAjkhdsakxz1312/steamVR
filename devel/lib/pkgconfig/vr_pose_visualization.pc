@@ -1,0 +1,1 @@
+/home/jn/workspace/linux_windows_tcp/devel/.private/vr_pose_visualization/lib/pkgconfig/vr_pose_visualization.pc

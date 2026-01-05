@@ -1,0 +1,8 @@
+prefix=/home/jn/workspace/linux_windows_tcp/install
+
+Name: vr_pose_visualization
+Description: Description of vr_pose_visualization
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lvr_pose_visualization
+Requires: roscpp std_msgs geometry_msgs tf2 tf2_ros

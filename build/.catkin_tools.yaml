@@ -1,0 +1,6 @@
+devel_space: /home/jn/workspace/linux_windows_tcp/devel
+install: false
+install_space: /home/jn/workspace/linux_windows_tcp/install
+profile: default
+source_space: /home/jn/workspace/linux_windows_tcp/src
+workspace: /home/jn/workspace/linux_windows_tcp

@@ -1,0 +1,4 @@
+Symlinking /home/jn/workspace/linux_windows_tcp/devel/lib/pkgconfig/vr_pose_visualization.pc
+Symlinking /home/jn/workspace/linux_windows_tcp/devel/lib/vr_pose_visualization/vr_pose_server
+Symlinking /home/jn/workspace/linux_windows_tcp/devel/share/vr_pose_visualization/cmake/vr_pose_visualizationConfig.cmake
+Symlinking /home/jn/workspace/linux_windows_tcp/devel/share/vr_pose_visualization/cmake/vr_pose_visualizationConfig-version.cmake

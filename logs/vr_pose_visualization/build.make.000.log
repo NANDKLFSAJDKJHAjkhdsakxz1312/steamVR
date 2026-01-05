@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target vr_pose_server[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/vr_pose_server.dir/src/vr_pose_server.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/jn/workspace/linux_windows_tcp/devel/.private/vr_pose_visualization/lib/vr_pose_visualization/vr_pose_server[0m
+[100%] Built target vr_pose_server
